@@ -21,6 +21,14 @@ npm start
 ### Backend
 Run API from Visual Studio
 
+## Database Setup
+
+1. Open SQL Server
+2. Create a new database (e.g. TechNovaHR)
+3. Run the script inside /database/database.sql
+
+This will create all tables and sample data.
+
 ###LOGINS
 Username - Password
 admin    - admin123
